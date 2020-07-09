@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FAQUIApp", "FAQUIApp\FAQUIApp.csproj", "{EBC59209-9B1B-4443-ACD6-3C23CA13D785}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBC59209-9B1B-4443-ACD6-3C23CA13D785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC59209-9B1B-4443-ACD6-3C23CA13D785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC59209-9B1B-4443-ACD6-3C23CA13D785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC59209-9B1B-4443-ACD6-3C23CA13D785}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {332C0E26-E89B-487B-AF3B-C7A7AD371A39}
+	EndGlobalSection
+EndGlobal
